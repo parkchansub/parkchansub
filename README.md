@@ -1,6 +1,6 @@
 ### 
 
-책임감이 강한 개발자 박찬섭입니다.
+백엔드 개발자 박찬섭입니다.
 
 
 ### Skill
@@ -12,4 +12,6 @@
 - DevOps: ![AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white) ![Github Actions](https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?&style=flat&logo=github%20actions&logoColor=white)
 
 
+## EXPERIENCE
+- **Quintet Systems** - Backend Developer *(Jan 2018 ~ )*<br>
 
