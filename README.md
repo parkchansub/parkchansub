@@ -14,5 +14,5 @@
 
 ## EXPERIENCE
 - **Quintet Systems** - Backend Developer *(Jan 2018 ~ Oct 2024)*<br>
-- **NSPACE** - Backend Developer *(Nov 2024 ~ )*<br>
+- **NSPACE** - Backend Developer *(Nov 2024 ~ )*<br>
 
